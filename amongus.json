@@ -2,4 +2,13 @@
   "avatar_url":"https://images.squarespace-cdn.com/content/v1/604682d5714fc325fa22d514/1624906686102-X3Y4GSWLR46OYMEOZRQB/among-us-6008615_1920.png",
   "username": "Not Imposter",
   "content": "**Am not sus!**"
+
+  "embeds": [{
+    "author": {
+      "name": "Crewmate pass",
+      "url": "https://www.reddit.com/r/Pizza/",
+      "icon_url": "https://i.imgur.com/V8ZjaMa.jpg"
+    },
+    "description": "Definiately not an imposter"
+  }]
 }
